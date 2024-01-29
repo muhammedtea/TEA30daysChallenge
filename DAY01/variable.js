@@ -36,4 +36,4 @@ let age = 25;
 let firstName = 'Oloyin', secondName = 'Tea', maritalStatus = 'Single', country = 'Nigeria'; age = 25;
 
 let myAge = 25;
-let yourAge = 30;
+let yourAge = 31;
