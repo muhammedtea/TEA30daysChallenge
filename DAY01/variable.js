@@ -5,7 +5,7 @@
 /* comments can make code readable, easy to reuse and informative
 */
 
-let firstName = 'Asabaneh';
+
 
 let isStudent = true;
 
@@ -33,7 +33,15 @@ let country = 'Nigeria';
 let age = 25;
 
 
-let firstName = 'Oloyin', secondName = 'Tea', maritalStatus = 'Single', country = 'Nigeria'; age = 25;
+
 
 let myAge = 25;
 let yourAge = 31;
+
+console.log(typeof firstName);
+
+console.log(typeof isStudent);
+
+console.log(typeof whoPlease);
+
+console.log(typeof emptyValue);

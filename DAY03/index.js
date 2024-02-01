@@ -41,3 +41,4 @@ prompt('Enter Base:');
 prompt('Enter height');
 prompt('Calc The area of the triangle ');
 
+
